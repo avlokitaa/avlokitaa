@@ -3,7 +3,7 @@
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!--                            HERO BANNER                                    -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
+![image alt](https://github.com/avlokitaa/readme-stats-deploy/blob/8a5b9509363c6a32eb71023d3b1fd78f65269b95/the-sun.jpg)
 <!-- Animated SVG Hero Banner -->
 
 <!--Will Make later- probably upload an image or something-->
