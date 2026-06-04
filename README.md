@@ -223,9 +223,6 @@ The wax may soften. The altitude may terrify. But the flight is the point.
   <a href="https://github.com/avlokitaa/SVVAP">
     <img src="https://readme-stats-deploy.vercel.app/api/pin/?username=avlokitaa&repo=SVVAP&theme=transparent&title_color=FFD700&text_color=C0A060&icon_color=B8860B&border_color=B8860B&description_lines_count=2" width="49%" />
   </a>
-  <a href="https://github.com/avlokitaa/certificate_tracker">
-    <img src="https://readme-stats-deploy.vercel.app/api/pin/?username=avlokitaa&repo=certificate_tracker&theme=transparent&title_color=FFD700&text_color=C0A060&icon_color=B8860B&border_color=B8860B&description_lines_count=2" width="49%" />
-  </a>
 </div>
 
 </div>
