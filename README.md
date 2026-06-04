@@ -372,14 +372,14 @@ learning:
   - Flutter & Mobile Architecture
 
 building:
-  - [ projects I'm currently working on ]
+  - A Game Recommendation App
   - Expanding GitHub portfolio
   - Contributing to open source
 
 reading:
   - Clean Code — Robert C. Martin
   - The Pragmatic Programmer
-  - [ current book ]
+  - Tell me your Dreams - Sidney Sheldon
 ```
 
 </td>
@@ -431,13 +431,13 @@ Status: ASCENDING ↑
 <br/>
 
 > **On Curiosity:**
-> Daedalus built the wings because he *had* to know. Not because it was safe. Not because it was approved. Because the problem existed and demanded a solution. Every bug I've chased at midnight, every rabbit hole that consumed an afternoon — that's the same madness. Curiosity is the only honest fuel.
+> Daedalus built the wings because he *had* to know. Not because it was safe. Not because it was approved. Because the problem existed and demanded a solution. Every bug I've chased at midnight, every rabbit hole that consumed an afternoon, that's the same madness. Curiosity is the only honest fuel.
 
 > **On Experimentation:**
-> Icarus didn't fly perfectly on his first attempt. He flew *imperfectly* — and then *better*. Every failed project, every bricked build, every stack overflow I caused personally taught me more than any successful demo ever did. Failure is data. Run more experiments.
+> Icarus didn't fly perfectly on his first attempt. He flew *imperfectly* and then *better*. Every failed project, every bricked build, every stack overflow I caused personally taught me more than any successful demo ever did. Failure is data. Run more experiments.
 
 > **On Learning Through Failure:**
-> The wax melting was information. It told him: the sun is closer than the theory suggested. The best engineers I admire treat every failure the same way — not as a verdict, but as a measurement. *Interesting. Let's adjust the model.*
+> The wax melting was information. It told him: the sun is closer than the theory suggested. The best engineers I admire treat every failure the same way, not as a verdict, but as a measurement. *Interesting. Let's adjust the model.*
 
 > **On Growth:**
 > He who never risks the fall never discovers how high the sky truly goes. Safe code is dead code. Safe ambitions are just regrets on a timeline. I would rather build something broken and reach for something impossible than compile cleanly for something no one needed.
