@@ -183,18 +183,14 @@ The wax may soften. The altitude may terrify. But the flight is the point.
 <br/>
 
 <table>
-<tr>
-<td>
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=avlokitaa&show_icons=true&theme=transparent&title_color=FFD700&text_color=C0A060&icon_color=B8860B&border_color=B8860B&hide_border=false&rank_icon=github&include_all_commits=true&count_private=true)
-
-</td>
-<td>
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=avlokitaa&theme=transparent&title_color=FFD700&text_color=C0A060&border_color=B8860B&layout=compact&langs_count=8)
-
-</td>
-</tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=avlokitaa&amp;show_icons=true&amp;theme=transparent&amp;title_color=FFD700&amp;text_color=C0A060&amp;icon_color=B8860B&amp;border_color=B8860B&amp;hide_border=false&amp;rank_icon=github&amp;include_all_commits=true" alt="GitHub Stats" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avlokitaa&amp;theme=transparent&amp;title_color=FFD700&amp;text_color=C0A060&amp;border_color=B8860B&amp;layout=compact&amp;langs_count=8" alt="Most Used Languages" />
+    </td>
+  </tr>
 </table>
 
 <br/>
@@ -228,31 +224,38 @@ The wax may soften. The altitude may terrify. But the flight is the point.
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" align="center">
 
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=avlokitaa&repo=spotit&theme=transparent&title_color=FFD700&text_color=C0A060&icon_color=B8860B&border_color=B8860B&description_lines_count=2)](https://github.com/avlokitaa/spotit)
+<a href="https://github.com/avlokitaa/spotit">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=avlokitaa&repo=spotit&theme=transparent&title_color=FFD700&text_color=C0A060&icon_color=B8860B&border_color=B8860B&description_lines_count=2" alt="SpotIt Repo" />
+</a>
 
 </td>
-<td width="50%">
+<td width="50%" align="center">
 
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=avlokitaa&repo=SVVAP&theme=transparent&title_color=FFD700&text_color=C0A060&icon_color=B8860B&border_color=B8860B&description_lines_count=2)](https://github.com/avlokitaa/SVVAP)
+<a href="https://github.com/avlokitaa/SVVAP">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=avlokitaa&repo=SVVAP&theme=transparent&title_color=FFD700&text_color=C0A060&icon_color=B8860B&border_color=B8860B&description_lines_count=2" alt="SVVAP Repo" />
+</a>
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" align="center">
 
-[![Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=avlokitaa&repo=certificate_tracker&theme=transparent&title_color=FFD700&text_color=C0A060&icon_color=B8860B&border_color=B8860B&description_lines_count=2)](https://github.com/avlokitaa/certificate_tracker)
+<a href="https://github.com/avlokitaa/certificate_tracker">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=avlokitaa&repo=certificate_tracker&theme=transparent&title_color=FFD700&text_color=C0A060&icon_color=B8860B&border_color=B8860B&description_lines_count=2" alt="Certificate Tracker Repo" />
+</a>
 
 </td>
-<td width="50%">
+<td width="50%" align="center">
 
-[![Repo 4](https://github-readme-stats.vercel.app/api/pin/?username=avlokitaa&repo=YOUR_BEST_REPO_4&theme=transparent&title_color=FFD700&text_color=C0A060&icon_color=B8860B&border_color=B8860B&description_lines_count=2)](https://github.com/avlokitaa/YOUR_BEST_REPO_4)
+<a href="https://github.com/avlokitaa/YOUR_BEST_REPO_4">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=avlokitaa&repo=YOUR_BEST_REPO_4&theme=transparent&title_color=FFD700&text_color=C0A060&icon_color=B8860B&border_color=B8860B&description_lines_count=2" alt="Repo 4" />
+</a>
 
 </td>
 </tr>
 </table>
-
 </div>
 
 <br/>
