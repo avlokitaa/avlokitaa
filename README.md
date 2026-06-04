@@ -182,16 +182,10 @@ The wax may soften. The altitude may terrify. But the flight is the point.
 
 <br/>
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=avlokitaa&amp;show_icons=true&amp;theme=transparent&amp;title_color=FFD700&amp;text_color=C0A060&amp;icon_color=B8860B&amp;border_color=B8860B&amp;hide_border=false&amp;rank_icon=github&amp;include_all_commits=true" alt="GitHub Stats" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avlokitaa&amp;theme=transparent&amp;title_color=FFD700&amp;text_color=C0A060&amp;border_color=B8860B&amp;layout=compact&amp;langs_count=8" alt="Most Used Languages" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=avlokitaa&show_icons=true&theme=transparent&title_color=FFD700&text_color=C0A060&icon_color=B8860B&border_color=B8860B&hide_border=false&rank_icon=github&include_all_commits=true" width="49%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avlokitaa&theme=transparent&title_color=FFD700&text_color=C0A060&border_color=B8860B&layout=compact&langs_count=8" width="49%" alt="Most Used Languages" />
+</div>
 
 <br/>
 
