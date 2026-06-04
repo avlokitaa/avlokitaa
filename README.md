@@ -5,6 +5,7 @@
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <!-- Animated SVG Hero Banner -->
+
 <!--Will Make later- probably upload an image or something-->
   <!-- Background -->
   <rect width="900" height="280" fill="#080808"/>
@@ -484,6 +485,8 @@ Status: ASCENDING ↑
 ![Profile Views](https://komarev.com/ghpvc/?username=avlokitaa&color=B8860B&style=for-the-badge&label=FLIGHTS+OBSERVED)
 
 <br/>
+
+![image alt](https://github.com/avlokitaa/readme-stats-deploy/blob/4bcf0855895527b5edf0a0e8875cce18f78525e2/icarus-fall-banner.jpg)
 
 <sub>*Built with ambition, caffeine, and the audacity of Icarus.*</sub>
 
