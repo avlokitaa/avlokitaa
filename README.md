@@ -249,10 +249,6 @@ The wax may soften. The altitude may terrify. But the flight is the point.
 </td>
 <td width="50%" align="center">
 
-<a href="https://github.com/avlokitaa/YOUR_BEST_REPO_4">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=avlokitaa&repo=YOUR_BEST_REPO_4&theme=transparent&title_color=FFD700&text_color=C0A060&icon_color=B8860B&border_color=B8860B&description_lines_count=2" alt="Repo 4" />
-</a>
-
 </td>
 </tr>
 </table>
