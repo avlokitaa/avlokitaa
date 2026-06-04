@@ -5,41 +5,7 @@
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <!-- Animated SVG Hero Banner -->
-<svg viewBox="0 0 900 280" xmlns="http://www.w3.org/2000/svg" width="900" height="280">
-  <defs>
-    <radialGradient id="sunGlow" cx="50%" cy="30%" r="60%">
-      <stop offset="0%" style="stop-color:#FFD700;stop-opacity:0.25"/>
-      <stop offset="50%" style="stop-color:#B8860B;stop-opacity:0.08"/>
-      <stop offset="100%" style="stop-color:#0a0a0a;stop-opacity:0"/>
-    </radialGradient>
-    <radialGradient id="sunCore" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" style="stop-color:#FFF8DC"/>
-      <stop offset="40%" style="stop-color:#FFD700"/>
-      <stop offset="100%" style="stop-color:#B8860B"/>
-    </radialGradient>
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
-      <feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
-    <filter id="softGlow">
-      <feGaussianBlur stdDeviation="8" result="coloredBlur"/>
-      <feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
-    <style>
-      @keyframes pulse { 0%,100%{opacity:0.6} 50%{opacity:1} }
-      @keyframes rotate { from{transform-origin:450px 84px;transform:rotate(0deg)} to{transform-origin:450px 84px;transform:rotate(360deg)} }
-      @keyframes float { 0%,100%{transform:translateY(0)} 50%{transform:translateY(-6px)} }
-      @keyframes featherDrift { 0%{transform:translate(0,0) rotate(0deg);opacity:0.8} 100%{transform:translate(-30px,60px) rotate(45deg);opacity:0} }
-      @keyframes featherDrift2 { 0%{transform:translate(0,0) rotate(0deg);opacity:0.7} 100%{transform:translate(25px,70px) rotate(-30deg);opacity:0} }
-      .sun-ray { animation: rotate 20s linear infinite; }
-      .hero-text { animation: float 4s ease-in-out infinite; }
-      .feather1 { animation: featherDrift 6s ease-in infinite; }
-      .feather2 { animation: featherDrift2 7s ease-in 1s infinite; }
-      .feather3 { animation: featherDrift 8s ease-in 2s infinite; }
-      .glow-pulse { animation: pulse 3s ease-in-out infinite; }
-    </style>
-  </defs>
-
+<!--Will Make later- probably upload an image or something-->
   <!-- Background -->
   <rect width="900" height="280" fill="#080808"/>
   <rect width="900" height="280" fill="url(#sunGlow)"/>
@@ -493,11 +459,11 @@ Status: ASCENDING ↑
       <feGaussianBlur stdDeviation="4" result="coloredBlur"/>
       <feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
-    <style>
+    <!--<style>
       @keyframes breathe { 0%,100%{opacity:0.7} 50%{opacity:1} }
       .breathe { animation: breathe 5s ease-in-out infinite; }
     </style>
-  </defs>
+  </defs>-->
 
   <rect width="900" height="200" fill="#080808"/>
   <rect width="900" height="200" fill="url(#finalGlow)"/>
@@ -541,7 +507,7 @@ Status: ASCENDING ↑
 
 *Connect with me*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23B8860B.svg?style=for-the-badge&logo=linkedin&logoColor=black)](https://linkedin.com/in/https://www.linkedin.com/in/avlokitapathania/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23B8860B.svg?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/avlokitapathania/)
 [![Email](https://img.shields.io/badge/Email-%23FFD700.svg?style=for-the-badge&logo=gmail&logoColor=black)](mailto:avlokita.pathania@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23C9A227.svg?style=for-the-badge&logo=vercel&logoColor=black)](https://YOUR_PORTFOLIO_URL)
 
