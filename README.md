@@ -331,7 +331,7 @@ The wax may soften. The altitude may terrify. But the flight is the point.
 | 🌱 First line of code written | `0° — Ground level` | ✅ Completed |
 | 📐 CS Fundamentals mastered | `15° — Low altitude` | ✅ Completed |
 | 🔨 First complete project shipped | `30° — Climbing` | ✅ Completed |
-| 🌐 Full stack development | `45° — Mid-flight` | 🔄 In Progress |
+| 🌐 Full stack development | `45° — Mid-flight` | ✅ Completed |
 | 🤝 First open source contribution | `60° — High altitude` | 🔄 In Progress |
 | 🤖 AI/ML integration in projects | `75° — Near the sun` | 🎯 Next target |
 | 🏗️ Contribute to major OSS project | `85° — The edge` | 🎯 Future |
