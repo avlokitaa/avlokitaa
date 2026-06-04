@@ -182,12 +182,10 @@ The wax may soften. The altitude may terrify. But the flight is the point.
 
 <br/>
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=avlokitaa&show_icons=true&theme=transparent&title_color=FFD700&text_color=C0A060&icon_color=B8860B&border_color=B8860B" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avlokitaa&theme=transparent&title_color=FFD700&text_color=C0A060&border_color=B8860B&layout=compact" alt="Most Used Languages" />
-
-</div>
+<p align="center">
+  <img src="https://readme-stats-deploy.vercel.app/api?username=avlokitaa&show_icons=true&theme=transparent&title_color=FFD700&text_color=C0A060&icon_color=B8860B&border_color=B8860B&hide_border=false&rank_icon=github" width="49%" alt="GitHub Stats" />
+  <img src="https://readme-stats-deploy.vercel.app/api/top-langs/?username=avlokitaa&theme=transparent&title_color=FFD700&text_color=C0A060&border_color=B8860B&layout=compact&langs_count=8" width="49%" alt="Most Used Languages" />
+</p>
 
 <br/>
 
@@ -220,15 +218,16 @@ The wax may soften. The altitude may terrify. But the flight is the point.
 
 <div align="center">
   <a href="https://github.com/avlokitaa/spotit">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=avlokitaa&repo=spotit&theme=transparent&title_color=FFD700&text_color=C0A060&icon_color=B8860B&border_color=B8860B&description_lines_count=2&v=1" width="49%" />
+    <img src="https://readme-stats-deploy.vercel.app/api/pin/?username=avlokitaa&repo=spotit&theme=transparent&title_color=FFD700&text_color=C0A060&icon_color=B8860B&border_color=B8860B&description_lines_count=2" width="49%" />
   </a>
   <a href="https://github.com/avlokitaa/SVVAP">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=avlokitaa&repo=SVVAP&theme=transparent&title_color=FFD700&text_color=C0A060&icon_color=B8860B&border_color=B8860B&description_lines_count=2&v=1" width="49%" />
+    <img src="https://readme-stats-deploy.vercel.app/api/pin/?username=avlokitaa&repo=SVVAP&theme=transparent&title_color=FFD700&text_color=C0A060&icon_color=B8860B&border_color=B8860B&description_lines_count=2" width="49%" />
   </a>
   <a href="https://github.com/avlokitaa/certificate_tracker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=avlokitaa&repo=certificate_tracker&theme=transparent&title_color=FFD700&text_color=C0A060&icon_color=B8860B&border_color=B8860B&description_lines_count=2&v=1" width="49%" />
+    <img src="https://readme-stats-deploy.vercel.app/api/pin/?username=avlokitaa&repo=certificate_tracker&theme=transparent&title_color=FFD700&text_color=C0A060&icon_color=B8860B&border_color=B8860B&description_lines_count=2" width="49%" />
   </a>
 </div>
+
 </div>
 
 <br/>
