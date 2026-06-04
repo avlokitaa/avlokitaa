@@ -338,19 +338,15 @@ The wax may soften. The altitude may terrify. But the flight is the point.
 
 ```yaml
 learning:
-  - Advanced Data Structures & Algorithms
-  - Full Stack Web Development
+  - Data Structures & Algorithms
   - Machine Learning Fundamentals
   - Flutter & Mobile Architecture
 
 building:
   - A Game Recommendation App
   - Expanding GitHub portfolio
-  - Contributing to open source
 
 reading:
-  - Clean Code — Robert C. Martin
-  - The Pragmatic Programmer
   - Tell me your Dreams - Sidney Sheldon
 ```
 
